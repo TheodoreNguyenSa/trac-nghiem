@@ -19,7 +19,7 @@ File APK chuẩn cho Android TV / Google TV (Android 5.0 trở lên):
 
 ### Cách 1 — Downloader (dễ nhất)
 1. Cài app **Downloader** miễn phí trên TV (Play Store).
-2. Mở Downloader, nhập mã code trong bài đăng mới nhất, bấm Go rồi Install.
+2. Mở Downloader, nhập mã **9538347**, bấm Go rồi Install.
 
 ### Cách 2 — Send Files to TV
 1. Cài app **Send Files to TV** trên TV và điện thoại.
@@ -43,6 +43,9 @@ Trắc Nghiệm miễn phí và sẽ luôn miễn phí. Nếu app có ích cho g
 Hoặc gửi trực tiếp qua PayPal: [paypal.me/ToanNguyen189](https://www.paypal.me/ToanNguyen189)
 
 ## Changelog
+
+### v1.1.4 (19 Nov 2026)
+- Hộp "Buy me a coffee" thêm mã QR + đường dẫn trang web (toannguyeninoz.pp.ua)
 
 ### v1.1.1 (26 Oct 2026)
 - Fixed: background music kept playing after leaving the app with HOME or pressing MUTE — the watchdog restarted it because it did not know the app was in the background, and the mute pause could be skipped. Music now stays paused while the app is in the background or muted, and resumes when you return to it
